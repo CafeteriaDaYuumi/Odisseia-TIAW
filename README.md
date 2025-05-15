@@ -1,4 +1,4 @@
-# Trabalho Prático - Semana 03
+# Finalização do projeto Json de TIAW(PUC)
 
 Dessa vez, vamos escolher uma proposta de projeto para trabalhar. Na [lista de propostas de projetos](propostas-projetos.md), escolha um dentre as alternativas.
 
