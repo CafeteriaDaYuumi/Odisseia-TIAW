@@ -29,7 +29,6 @@ uma plataforma de mangas e historia em quadrinhos,  deve haver uma galeria de ma
 ## Print da home-page criada
 
 ![Tela inicial web](public/img/Tela/Atualização/Tela%20inicial%201.png)
-![Tela inicial web](public/img/Tela/Atualização/Tela%20Inicial%202.png)
 ![Tela login web](public/img/Tela/Atualização/Login.png)
 ![Tela galeria web](public/img/Tela/Atualização/galeria%20de%20manga.png)
 ![Tela manga web](public/img/Tela/Atualização/Tela%20Manga.png)
