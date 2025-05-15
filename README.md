@@ -17,7 +17,7 @@ uma plataforma de mangas e historia em quadrinhos,  deve haver uma galeria de ma
 
 ## Print do esboço criada
 ![Tela inicial](public/img/Ideia/Inicial.png)
-![Tela Manga ](public/img/Ideia/GaleriaManga.png)
+![Tela Manga ](public/img/Ideia/GaleriaManga.jpg)
 ![Tela Login](public/img/Ideia/Login.png)
 ![Tela Manga](public/img/Ideia/Manga.png)
 ![Tela popup](public/img/Ideia/Popup%20manga.png)
